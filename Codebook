@@ -1,2 +1,70 @@
 ## Variable Information
--
+- subject : Code of the subject tested
+- activity : Name of the activity subject is tested on
+- TimeBodyAccelerometerMeanAxisX : Mean of time domain signal of body acceleration signal taken from Accelerometer in the X axis
+- TimeBodyAccelerometerMeanAxisY : Mean of time domain signal of body acceleration signal taken from Accelerometer in the Y axis
+- TimeBodyAccelerometerMeanAxisZ : Mean of time domain signal of body acceleration signal taken from Accelerometer in the Z axis
+- TimeBodyAccelerometerStandardDeviationAxisX : Standard deviation of time domain signal of body acceleration signal taken from Accelerometer in the X axis
+- TimeBodyAccelerometerStandardDeviationAxisY : Standard deviation of time domain signal of body acceleration signal taken from Accelerometer in the Y axis
+- TimeBodyAccelerometerStandardDeviationAxisZ : Standard deviation of time domain signal of body acceleration signal taken from Accelerometer in the Z axis
+- TimeGravityAccelerometerMeanAxisX : Mean of time domain signal of gravity acceleration signal taken from Accelerometer in the X axis
+- TimeGravityAccelerometerMeanAxisY : Mean of time domain signal of gravity acceleration signal taken from Accelerometer in the Y axis
+- TimeGravityAccelerometerMeanAxisZ : Mean of time domain signal of gravity acceleration signal taken from Accelerometer in the Z axis
+- TimeGravityAccelerometerStandardDeviationAxisX : Standard deviation of time domain signal of gravity acceleration signal taken from Accelerometer in the X axis
+- TimeGravityAccelerometerStandardDeviationAxisY : Standard deviation of time domain signal of gravity acceleration signal taken from Accelerometer in the Y axis
+- TimeGravityAccelerometerStandardDeviationAxisZ : Standard deviation of time domain signal of gravity acceleration signal taken from Accelerometer in the Z axis
+- TimeBodyAccelerometerJerkMeanAxisX : Mean of time domain signal of jerk body acceleration signal taken from Accelerometer in the X axis
+- TimeBodyAccelerometerJerkMeanAxisY : Mean of time domain signal of jerk body acceleration signal taken from Accelerometer in the Y axis
+- TimeBodyAccelerometerJerkMeanAxisZ : Mean of time domain signal of jerk body acceleration signal taken from Accelerometer in the Z axis
+- TimeBodyAccelerometerJerkStandardDeviationAxisX : Standard deviation of time domain signal of jerk body acceleration signal taken from Accelerometer in the X axis
+- TimeBodyAccelerometerJerkStandardDeviationAxisY : Standard deviation of time domain signal of jerk body acceleration signal taken from Accelerometer in the Y axis
+- TimeBodyAccelerometerJerkStandardDeviationAxisZ : Standard deviation of time domain signal of jerk body acceleration signal taken from Accelerometer in the Z axis
+- TimeBodyGyroscopeMeanAxisX : Mean of time domain signal of body acceleration signal taken from Gyroscope in the X axis
+- TimeBodyGyroscopeMeanAxisY : Mean of time domain signal of body acceleration signal taken from Gyroscope in the Y axis
+- TimeBodyGyroscopeMeanAxisZ : Mean of time domain signal of body acceleration signal taken from Gyroscope in the Z axis
+- TimeBodyGyroscopeStandardDeviationAxisX : Standard deviation of time domain signal of body acceleration signal taken from Gyroscope in the X axis
+- TimeBodyGyroscopeStandardDeviationAxisY : Standard deviation of time domain signal of body acceleration signal taken from Gyroscope in the Y axis
+- TimeBodyGyroscopeStandardDeviationAxisZ : Standard deviation of time domain signal of body acceleration signal taken from Gyroscope in the Z axis
+- TimeBodyGyroscopeJerkMeanAxisX : Mean of time domain signal of jerk body acceleration signal taken from Gyroscope in the X axis
+- TimeBodyGyroscopeJerkMeanAxisY : Mean of time domain signal of jerk body acceleration signal taken from Gyroscope in the Y axis
+- TimeBodyGyroscopeJerkMeanAxisZ : Mean of time domain signal of jerk body acceleration signal taken from Gyroscope in the Z axis
+- TimeBodyGyroscopeJerkStandardDeviationAxisX : Standard deviation of time domain signal of jerk body acceleration signal taken from Gyroscope in the X axis
+- TimeBodyGyroscopeJerkStandardDeviationAxisY : Standard deviation of time domain signal of jerk body acceleration signal taken from Gyroscope in the Y axis
+- TimeBodyGyroscopeJerkStandardDeviationAxisZ : Standard deviation of time domain signal of jerk body acceleration signal taken from Gyroscope in the Z axis
+- TimeBodyAccelerometerMagnitudeMean : Magnitude of Mean of time domain signal of body acceleration signal taken from Accelerometer
+- TimeBodyAccelerometerMagnitudeStandardDeviation : Magnitude of Standard deviation of time domain signal of body acceleration signal taken from Accelerometer
+- TimeGravityAccelerometerMagnitudeMean : Magnitude of Mean of time domain signal of gravity acceleration signal taken from Accelerometer
+- TimeGravityAccelerometerMagnitudeStandardDeviation : Magnitude of Standard deviation of time domain signal of gravity acceleration signal taken from Accelerometer
+- TimeBodyAccelerometerJerkMagnitudeMean : Magnitude of Mean of time domain signal of jerk body acceleration signal taken from Accelerometer
+- TimeBodyAccelerometerJerkMagnitudeStandardDeviation : Magnitude of Standard deviation of time domain signal of jerk body acceleration signal taken from Accelerometer
+- TimeBodyGyroscopeMagnitudeMean : Magnitude of Mean of time domain signal of body acceleration signal taken from Gyroscope
+- TimeBodyGyroscopeMagnitudeStandardDeviation : Magnitude of Standard deviation of time domain signal of body acceleration signal taken from Gyroscope
+- TimeBodyGyroscopeJerkMagnitudeMean : Magnitude of Mean of time domain signal of jerk body acceleration signal taken from Gyroscope
+- TimeBodyGyroscopeJerkMagnitudeStandardDeviation : Magnitude of Standard deviation of time domain signal of jerk body acceleration signal taken from Gyroscope
+- FrequencyBodyAccelerometerMeanAxisX : Mean of frequency domain signal of body acceleration signal taken from Accelerometer in the X axis
+- FrequencyBodyAccelerometerMeanAxisY : Mean of frequency domain signal of body acceleration signal taken from Accelerometer in the Y axis
+- FrequencyBodyAccelerometerMeanAxisZ : Mean of frequency domain signal of body acceleration signal taken from Accelerometer in the Z axis
+- FrequencyBodyAccelerometerStandardDeviationAxisX : Standard deviation of frequency domain signal of body acceleration signal taken from Accelerometer in the X axis
+- FrequencyBodyAccelerometerStandardDeviationAxisY : Standard deviation of frequency domain signal of body acceleration signal taken from Accelerometer in the Y axis
+- FrequencyBodyAccelerometerStandardDeviationAxisZ : Standard deviation of frequency domain signal of body acceleration signal taken from Accelerometer in the Z axis
+- FrequencyBodyAccelerometerJerkMeanAxisX : Mean of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the X axis
+- FrequencyBodyAccelerometerJerkMeanAxisY : Mean of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the Y axis
+- FrequencyBodyAccelerometerJerkMeanAxisZ : Mean of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the Z axis
+- FrequencyBodyAccelerometerJerkStandardDeviationAxisX : Standard deviation of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the X axis
+- FrequencyBodyAccelerometerJerkStandardDeviationAxisY : Standard deviation of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the Y axis
+- FrequencyBodyAccelerometerJerkStandardDeviationAxisZ : Standard deviation of frequency domain signal of jerk body acceleration signal taken from Gyroscope in the Z axis
+- FrequencyBodyGyroscopeMeanAxisX : Mean of frequency domain signal of body acceleration signal taken from Gyroscope in the X axis
+- FrequencyBodyGyroscopeMeanAxisY : Mean of frequency domain signal of body acceleration signal taken from Gyroscope in the Y axis
+- FrequencyBodyGyroscopeMeanAxisZ : Mean of frequency domain signal of body acceleration signal taken from Gyroscope in the Z axis
+- FrequencyBodyGyroscopeStandardDeviationAxisX : Standard deviation of frequency domain signal of body acceleration signal taken from Gyroscope in the X axis
+- FrequencyBodyGyroscopeStandardDeviationAxisY : Standard deviation of frequency domain signal of body acceleration signal taken from Gyroscope in the Y axis
+- FrequencyBodyGyroscopeStandardDeviationAxisZ : Standard deviation of frequency domain signal of body acceleration signal taken from Gyroscope in the Z axis
+- FrequencyBodyAccelerometerMagnitudeMean : Magnitude of Mean of frequency domain signal of body acceleration signal taken from Accelerometer
+- FrequencyBodyAccelerometerMagnitudeStandardDeviation : Magnitude of Standard deviation of frequency domain signal of body acceleration signal taken from Accelerometer
+- FrequencyBodyAccelerometerJerkMagnitudeMean : Magnitude of Mean of frequency domain signal of jerk body acceleration signal taken from Accelerometer
+- FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation : Magnitude of Standard deviation of frequency domain signal of jerk body acceleration signal taken from Accelerometer
+- FrequencyBodyGyroscopeMagnitudeMean : Magnitude of Mean of frequency domain signal of body acceleration signal taken from Gyroscope
+- FrequencyBodyGyroscopeMagnitudeStandardDeviation : Magnitude of Standard deviation of frequency domain signal of body acceleration signal taken from Gyroscope
+- FrequencyBodyGyroscopeJerkMagnitudeMean : Magnitude of Mean of frequency domain signal of jerk body acceleration signal taken from Gyroscope
+- FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation : Magnitude of Standard deviation of frequency domain signal of jerk body acceleration signal taken from Gyroscope
+## Steps Taken to Transform Raw Data into Tidy Data
