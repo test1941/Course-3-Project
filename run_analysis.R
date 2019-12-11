@@ -45,6 +45,7 @@ names(fullDataMeanStd)<-gsub("-Y", "AxisY", names(fullDataMeanStd))
 names(fullDataMeanStd)<-gsub("-Z", "AxisZ", names(fullDataMeanStd))
 names(fullDataMeanStd)<-gsub("-mean", "Mean", names(fullDataMeanStd))
 names(fullDataMeanStd)<-gsub("-std", "StandardDeviation", names(fullDataMeanStd))
+names(fullDataMeanStd)<-gsub("BodyBody", "Body", names(fullDataMeanStd))
 #Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 TidyFinalData <- fullDataMeanStd %>% group_by(subject, activity) %>% summarise_at(vars(names(fullDataMeanStd)[3]:names(fullDataMeanStd)[68]),mean,na.rm = T)
 #Write the tidy final dataset into a txt file
