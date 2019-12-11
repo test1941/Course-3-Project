@@ -68,3 +68,23 @@
 - FrequencyBodyGyroscopeJerkMagnitudeMean : Magnitude of Mean of frequency domain signal of jerk body acceleration signal taken from Gyroscope
 - FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation : Magnitude of Standard deviation of frequency domain signal of jerk body acceleration signal taken from Gyroscope
 ## Steps Taken to Transform Raw Data into Tidy Data
+1. Read features.
+2. Create a feature vector to name columns of both training and test datasets.
+3. Read training dataset.
+4. Read training dataset headers.
+5. Read codes for subjects.
+6. Create training data set by combining above.
+7. Add a variable named source indicating training data set.
+8. Read testing dataset.
+9. Read testing dataset headers.
+10. Read codes for subjects.
+11. Create testing data set by combining above.
+12. Add a variable named source indicating testing data set.
+13. Combine both datasets into one.
+14. Extract only the measurements on the mean and standard deviation for each measurement.
+15. Read activity names.
+16. Create an activity vector to name name activities.
+17. Use the above descriptive activity names to name the activities in the data set
+18. Label the data set with descriptive variable names.
+19. Create a second  independent tidy data set with the average of each variable for each activity and each subject.
+20. Write the tidy final dataset into a txt file.
